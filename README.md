@@ -1,6 +1,7 @@
 # CAMcalibration
 cam calibration and distortion correction by openCV  
 
+code referenced: https://github.com/mint-lab/cv_tutorial/tree/master  
 
 
 --------------------------------------------------------------------------------  
